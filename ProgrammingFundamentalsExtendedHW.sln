@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysBetweenTwoDates", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArrayElements", "SumArrayElements\SumArrayElements.csproj", "{B9A0EC52-1068-4D70-9265-2243D99AA56C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugNonWorkingDays", "DebugNonWorkingDays\DebugNonWorkingDays.csproj", "{F0B85A59-C8F5-4780-85A4-DC11E27C7E10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{B9A0EC52-1068-4D70-9265-2243D99AA56C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9A0EC52-1068-4D70-9265-2243D99AA56C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9A0EC52-1068-4D70-9265-2243D99AA56C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0B85A59-C8F5-4780-85A4-DC11E27C7E10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0B85A59-C8F5-4780-85A4-DC11E27C7E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0B85A59-C8F5-4780-85A4-DC11E27C7E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0B85A59-C8F5-4780-85A4-DC11E27C7E10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
